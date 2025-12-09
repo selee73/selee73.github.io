@@ -6,6 +6,7 @@
 2. [프로그래밍](README.md#2-프로그래밍)
 3. [레드햇 교육 및 시험 과정](README.md#3-레드햇-교육-및-시험-과정)
 4. [TO-DO 리스트](README.md#4-to-do-리스트)
+99. [TO-DO 리스트](README.md#99-to-do-리스트)
 
 <br>
 <br>
@@ -37,6 +38,8 @@
 * [RH436](https://github.com/selee73/RH436) - Red Hat High Availability Clustering
 
 * [DO180](https://github.com/selee73/DO180) - Red Hat OpenShift Administration I: Operating a Production Cluster
+  + [DO180-apps](https://github.com/selee73/DO180-apps): 랩에서 사용된 사용자 앱
+
 * [DO280](https://github.com/selee73/DO280) - Red Hat OpenShift Administration II: Configuring a Production Cluster
 
 * [CL170](https://github.com/selee73/CL170) - OpenStack Administration: Control Plane Management
@@ -52,14 +55,20 @@
 <br>
 <br>
 
-## 4. TO-DO 리스트
+## 97. 산출물
 
-* ansible-project 내에 있는 내용 분리하여 정리 필요
+* [taxonomy](https://github.com/selee73/taxonomy): RHEL AI를 위한 택소노미 트리
+* [nationalparks](https://github.com/selee73/nationalparks): 레드햇 시험과정에 사용된 사용자 앱
+
+## 99. TO-DO 리스트
+
+* [ansible-project](https://github.com/selee73/ansible-project) 내에 있는 내용 분리하여 정리 필요
   + python-project
   + 맥용 파일들
   + 다양한 앤서블 컬렉션 및 롤
   + RH294용 앤서블 플레이북
 
+* [Podman-desktop](https://github.com/selee73/podman-desktop)을 정리하여 starlab으로 옮기기
 <br>
 <br>
 
