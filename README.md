@@ -35,23 +35,28 @@
 
 * [DO-EX](https://github.com/selee73/DO-EX) - 리스트 및 설명
 
-* [RH436](https://github.com/selee73/RH436) - Red Hat High Availability Clustering
+* Red Hat Enterprise Linux
+  + [RH436](https://github.com/selee73/RH436) - Red Hat High Availability Clustering
 
-* [DO180](https://github.com/selee73/DO180) - Red Hat OpenShift Administration I: Operating a Production Cluster
-  + [DO180-apps](https://github.com/selee73/DO180-apps): 랩에서 사용된 사용자 앱
+* Red Hat OpenShift
+  + [DO180](https://github.com/selee73/DO180) - Red Hat OpenShift Administration I: Operating a Production Cluster
+    - [DO180-apps](https://github.com/selee73/DO180-apps): 랩에서 사용된 사용자 앱
+  + [DO280](https://github.com/selee73/DO280) - Red Hat OpenShift Administration II: Configuring a Production Cluster
 
-* [DO280](https://github.com/selee73/DO280) - Red Hat OpenShift Administration II: Configuring a Production Cluster
+* Red Hat OpenStack Platform
+  + [CL170](https://github.com/selee73/CL170) - OpenStack Administration: Control Plane Management
 
-* [CL170](https://github.com/selee73/CL170) - OpenStack Administration: Control Plane Management
+* Red Hat Ansible Automation Platform
+  + [DO374](https://github.com/selee73/DO374) - Developing Advanced Automation with Red Hat Ansible Automation Platform
+  + [DO467](https://github.com/selee73/DO467) - Managing Enterprise Automation with Red Hat Ansible Automation Platform
 
-* [DO374](https://github.com/selee73/DO374) - Developing Advanced Automation with Red Hat Ansible Automation Platform
-* [DO467](https://github.com/selee73/DO467) - Managing Enterprise Automation with Red Hat Ansible Automation Platform
+* Red Hat OpenShift Virtualization
+  + [DO316](https://github.com/selee73/DO316) - Managing Virtual Machines with Red Hat OpenShift Virtualization
+  + [DO336](https://github.com/selee73/DO336) - Automate and Manage Red Hat OpenShift Virtualization with Red Hat Ansible Automation Platform
 
-* [DO316](https://github.com/selee73/DO316) - Managing Virtual Machines with Red Hat OpenShift Virtualization
-* [DO336](https://github.com/selee73/DO336) - Automate and Manage Red Hat OpenShift Virtualization with Red Hat Ansible Automation Platform
-
-* [AI262](https://github.com/selee73/AI262) - Introduction to Red Hat OpenShift AI
-* [AI267](https://github.com/selee73/AI267) - Developing and Deploying AI/ML Applications on Red Hat OpenShift AI
+* Red Hat AI
+  + [AI262](https://github.com/selee73/AI262) - Introduction to Red Hat OpenShift AI
+  + [AI267](https://github.com/selee73/AI267) - Developing and Deploying AI/ML Applications on Red Hat OpenShift AI
 <br>
 <br>
 
