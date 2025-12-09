@@ -27,7 +27,6 @@
 * [my-python](https://github.com/selee73/my-python) - 파이썬 프로그래밍
 * [my-django]() - 파이썬 기반 웹 개발 언어
 * [my-swift]() - 맥 / 아이패드를 위한 개발 언어
-
 <br>
 <br>
 
@@ -70,6 +69,8 @@
 
 * [taxonomy](https://github.com/selee73/taxonomy): RHEL AI를 위한 택소노미 트리
 * [nationalparks](https://github.com/selee73/nationalparks): 레드햇 시험과정에 사용된 사용자 앱
+<br>
+<br>
 
 ## 99. TO-DO 리스트
 
