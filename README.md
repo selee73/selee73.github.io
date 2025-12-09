@@ -34,25 +34,31 @@
 ## 3. 레드햇 교육 및 시험 과정
 
 * [DO-EX](https://github.com/selee73/DO-EX) - 리스트 및 설명
+<br>
 
 * Red Hat Enterprise Linux
   + [RH436](https://github.com/selee73/RH436) - Red Hat High Availability Clustering
+<br>
 
 * Red Hat OpenShift
   + [DO180](https://github.com/selee73/DO180) - Red Hat OpenShift Administration I: Operating a Production Cluster
     - [DO180-apps](https://github.com/selee73/DO180-apps): 랩에서 사용된 사용자 앱
   + [DO280](https://github.com/selee73/DO280) - Red Hat OpenShift Administration II: Configuring a Production Cluster
+<br>
 
 * Red Hat OpenStack Platform
   + [CL170](https://github.com/selee73/CL170) - OpenStack Administration: Control Plane Management
+<br>
 
 * Red Hat Ansible Automation Platform
   + [DO374](https://github.com/selee73/DO374) - Developing Advanced Automation with Red Hat Ansible Automation Platform
   + [DO467](https://github.com/selee73/DO467) - Managing Enterprise Automation with Red Hat Ansible Automation Platform
+<br>
 
 * Red Hat OpenShift Virtualization
   + [DO316](https://github.com/selee73/DO316) - Managing Virtual Machines with Red Hat OpenShift Virtualization
   + [DO336](https://github.com/selee73/DO336) - Automate and Manage Red Hat OpenShift Virtualization with Red Hat Ansible Automation Platform
+<br>
 
 * Red Hat AI
   + [AI262](https://github.com/selee73/AI262) - Introduction to Red Hat OpenShift AI
