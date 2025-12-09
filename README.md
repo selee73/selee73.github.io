@@ -24,6 +24,7 @@
 
 ## 2. 프로그래밍
 
+* [my-jq](https://github.com/selee73/my-jq) - 자바스크립트 쿼리
 * [my-python](https://github.com/selee73/my-python) - 파이썬 프로그래밍
 * [my-django]() - 파이썬 기반 웹 개발 언어
 * [my-swift]() - 맥 / 아이패드를 위한 개발 언어
