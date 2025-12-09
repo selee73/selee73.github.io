@@ -75,6 +75,11 @@
 
 ## 99. TO-DO 리스트
 
+* [my-workplace](https://github.com/selee73/my-workplace)
+  + 오픈시프트 가상화 관련 정리 필요
+  + 오픈시프트 인프라 내용 확인
+  + showroom 작업 진행
+
 * [ansible-project](https://github.com/selee73/ansible-project) 내에 있는 내용 분리하여 정리 필요
   + python-project
   + 맥용 파일들
