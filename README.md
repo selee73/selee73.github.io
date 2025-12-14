@@ -26,6 +26,9 @@
 
 * [my-jq](https://github.com/selee73/my-jq) - 자바스크립트 쿼리
 * [my-python](https://github.com/selee73/my-python) - 파이썬 프로그래밍
+  + [파이썬 기본 프로그래밍](https://github.com/selee73/my-python/blob/main/basic/README.md)
+  + [파이썬 고급 프로그래밍](https://github.com/selee73/my-python/blob/main/advanced/README.md)
+  + [파이썬 사용 사례](https://github.com/selee73/my-python/blob/main/use-cases/README.md)
 * [my-django]() - 파이썬 기반 웹 개발 언어
 * [my-swift]() - 맥 / 아이패드를 위한 개발 언어
 <br>
@@ -81,7 +84,6 @@
   + showroom 작업 진행
 
 * [ansible-project](https://github.com/selee73/ansible-project) 내에 있는 내용 분리하여 정리 필요
-  + python-project
   + 맥용 파일들
   + 다양한 앤서블 컬렉션 및 롤
   + RH294용 앤서블 플레이북
