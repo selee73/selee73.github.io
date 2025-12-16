@@ -30,9 +30,9 @@
   + [파이썬 고급 프로그래밍](https://github.com/selee73/my-python/blob/main/advanced/README.md)
   + [파이썬 사용 사례](https://github.com/selee73/my-python/blob/main/use-cases/README.md)
 * [my-django](https://github.com/selee73/my-django) - 파이썬 기반 웹 개발 언어
-  + [장고(Django) 기본 프로그래밍](https://github.com/selee73/my-my-django/blob/main/basic/README.md)
-  + [장고(Django) 고급 프로그래밍](https://github.com/selee73/my-my-django/blob/main/advanced/README.md)
-  + [장고(Django) 사용 사례](https://github.com/selee73/my-my-django/blob/main/use-cases/README.md)
+  + [장고(Django) 기본 프로그래밍](https://github.com/selee73/my-django/blob/main/basic/README.md)
+  + [장고(Django) 고급 프로그래밍](https://github.com/selee73/my-django/blob/main/advanced/README.md)
+  + [장고(Django) 사용 사례](https://github.com/selee73/my-django/blob/main/use-cases/README.md)
 * [my-swift]() - 맥 / 아이패드를 위한 개발 언어
 <br>
 <br>
