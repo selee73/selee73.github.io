@@ -43,6 +43,7 @@
 <br>
 
 * Red Hat Enterprise Linux
+  + [RH294](https://github.com/selee73/RH294) - Red Hat Enterprise Linux Automation with Ansible
   + [RH436](https://github.com/selee73/RH436) - Red Hat High Availability Clustering
 <br>
 
