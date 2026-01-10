@@ -45,6 +45,7 @@
 * Red Hat Enterprise Linux
   + [RH294](https://github.com/selee73/RH294) - Red Hat Enterprise Linux Automation with Ansible
   + [RH436](https://github.com/selee73/RH436) - Red Hat High Availability Clustering
+  + [RH442](https://github.com/selee73/RH442) - Red Hat Performance Tuning: Linux in Physical, Virtual and Cloud
 <br>
 
 * Red Hat OpenShift
@@ -58,6 +59,7 @@
 <br>
 
 * Red Hat Ansible Automation Platform
+  + [RH294](https://github.com/selee73/RH294) - Red Hat Enterprise Linux Automation with Ansible
   + [DO374](https://github.com/selee73/DO374) - Developing Advanced Automation with Red Hat Ansible Automation Platform
   + [DO467](https://github.com/selee73/DO467) - Managing Enterprise Automation with Red Hat Ansible Automation Platform
 <br>
