@@ -19,6 +19,7 @@
 * [my-home-project](https://github.com/selee73/my-home-project)
   + 비어 있음
   + MyHome 설정을 위한 프로젝트로 예약
+* [my-vllm](https://github.com/selee73/my-vllm)
 <br>
 <br>
 
@@ -72,6 +73,13 @@
 * Red Hat AI
   + [AI262](https://github.com/selee73/AI262) - Introduction to Red Hat OpenShift AI
   + [AI267](https://github.com/selee73/AI267) - Developing and Deploying AI/ML Applications on Red Hat OpenShift AI
+<br>
+<br>
+
+## 4. AI
+
+* [AI Lab](https://github.com/selee73/ai-lab)
+  + [Private MaaS](https://github.com/selee73/ai-lab/tree/main/private_models_as_a_service)
 <br>
 <br>
 
