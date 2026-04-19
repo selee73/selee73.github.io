@@ -76,14 +76,15 @@
 <br>
 <br>
 
-## 4. AI
+## 4. Labs
 
 * [AI Lab](https://github.com/selee73/ai-lab)
+  + [Taking MCP Servers to Prod](https://github.com/selee73/ai-lab/tree/main/taking_mcp_servers_to_prod)
   + [Private MaaS](https://github.com/selee73/ai-lab/tree/main/private_models_as_a_service)
-<br>
-<br>
+  + [llm-d for Scalable LLM Inference](https://github.com/selee73/ai-lab/tree/main/llm-d_for_scalable_llm)
 
-## 5. Security
+* [App Lab](https://github.com/selee73/app-lab)
+  + [Advanced App on OpenShift](https://github.com/selee73/app-lab/tree/main/advanced_app)
 
 * [Security Lab](https://github.com/selee73/security-lab)
   + [RHADS로 안전하고 효율적인 개발자 워크플로우 구축](https://github.com/selee73/security-lab/blob/main/dev_workflow_with_rhads/README.md)
