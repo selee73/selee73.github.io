@@ -35,6 +35,11 @@
   + [장고(Django) 고급 프로그래밍](https://github.com/selee73/my-django/blob/main/advanced/README.md)
   + [장고(Django) 사용 사례](https://github.com/selee73/my-django/blob/main/use-cases/README.md)
 * [my-swift]() - 맥 / 아이패드를 위한 개발 언어
+* [my-ansible](https://github.com/selee73/my-ansible) - 앤서블
+  + [앤서블 기본](https://github.com/selee73/my-ansible/blob/main/basic/README.md)
+  + [앤서블 고급](https://github.com/selee73/my-ansible/blob/main/advanced/README.md)
+  + [앤서블 활요](https://github.com/selee73/my-ansible/blob/main/use-cases/README.md)
+  + [앤서블 랩](https://github.com/selee73/my-ansible/blob/main/labs/README.md)
 <br>
 <br>
 
