@@ -87,12 +87,20 @@
   + [Taking MCP Servers to Prod](https://github.com/selee73/ai-lab/tree/main/taking_mcp_servers_to_prod)
   + [Private MaaS](https://github.com/selee73/ai-lab/tree/main/private_models_as_a_service)
   + [llm-d for Scalable LLM Inference](https://github.com/selee73/ai-lab/tree/main/llm-d_for_scalable_llm)
+  + [RHEL MCP 서버](https://github.com/selee73/ai-lab/tree/main/mcp_server_for_rhel)
+  + [AI를 통한 RHEL 관리](https://github.com/selee73/ai-lab/tree/main/AI-Powered%20RHEL%20Management)
 
 * [App Lab](https://github.com/selee73/app-lab)
   + [Advanced App on OpenShift](https://github.com/selee73/app-lab/tree/main/advanced_app)
 
 * [Security Lab](https://github.com/selee73/security-lab)
   + [RHADS로 안전하고 효율적인 개발자 워크플로우 구축](https://github.com/selee73/security-lab/blob/main/dev_workflow_with_rhads/README.md)
+  + 컨테이너 이미지 보안
+    - [컨테이너 이미지 CVE 스캔 및 서명](https://github.com/selee73/security-lab/blob/main/security_ops_with_hardened_images/README.md)
+    - [컨테이너 강화(Hardned)](https://github.com/selee73/security-lab/blob/main/container_hardening/README.md)
+  + 기밀 컨테이너 및 제로-트러스트
+    - [ARO 상에서 기밀 컨테이너 설정](https://github.com/selee73/security-lab/blob/main/confidential_containers_on_aro/README.md)
+    - [AAP를 통한 Zero-Trust 아키텍처 구현](https://github.com/selee73/security-lab/blob/main/zero_trust/README.md)
 
 ## 97. 산출물
 
